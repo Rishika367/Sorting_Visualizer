@@ -2,7 +2,7 @@
 
 This web application provides an interactive visualization of six fundamental sorting algorithms. It allows users to observe the step-by-step execution of each algorithm through color-coded animations, with control over the speed of visualization, data size, and random data generation.
 
-Implemented algorithms:
+## Implemented algorithms:
 1) Bubble sort
 2) Selection sort
 3) Insertion sort
@@ -10,7 +10,7 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
-Features:
+## Features:
 1. Interactive Visualizations
 Each algorithm's execution is visually represented, with color codes indicating different stages of sorting:
 
